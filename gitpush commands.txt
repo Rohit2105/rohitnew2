@@ -1,0 +1,16 @@
+
+$ git init
+
+$ git status
+
+$ git add .
+
+$ git status
+
+$ git commit -m "rohitnwe"
+
+$ git remote add origin https://github.com/Rohit2105/rohitnew2.git
+
+$ git push origin master -f
+
+
